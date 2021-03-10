@@ -5,9 +5,11 @@
 
 * {
   font-family: 'RobotoMono', 'monospace';
+  border: 0;
+  margin: 0;
 }
 
-body {
+#root {
   display: flex;
   height: 100vh;
   justify-content: center;
