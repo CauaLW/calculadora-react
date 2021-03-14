@@ -30,7 +30,7 @@ Calculadora com funções simples e layout responsivo. Para âmbito de estudo.
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- Framework ReactJs
+- ReactJs
 
 ## :closed_book: Licença
 
